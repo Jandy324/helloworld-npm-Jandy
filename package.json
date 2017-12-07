@@ -1,6 +1,6 @@
 {
   "name": "helloworld-npm-jandy",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Prints Hello World to the console.",
   "main": "index.js",
   "scripts": {

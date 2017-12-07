@@ -1,3 +1,3 @@
-module.exports=function        printHelloworld(){
+module.exports.printHelloWorld = function (){
 console.log("Hello World")
 }
