@@ -1,0 +1,19 @@
+{
+  "name": "helloworld-npm-jandy",
+  "version": "1.0.0",
+  "description": "Prints Hello World to the console.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jandy324/helloworld-npm-Jandy.git"
+  },
+  "author": "jamesandye@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jandy324/helloworld-npm-Jandy/issues"
+  },
+  "homepage": "https://github.com/Jandy324/helloworld-npm-Jandy#readme"
+}
