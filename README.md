@@ -5,8 +5,7 @@ Installing:
 
 npm install helloworld-npm-jandy
 
-Then require the index.js from the directory the previous command outputted to.
-Usually this is node_modules
+Then require the module
 
 
 
@@ -14,7 +13,7 @@ Example:
 
 #Gets the module 
 
-var helloWorld= require("./index.js");
+var helloWorld= require("./node_modules/helloworld-npm-jandy/");
 
 #Runs the function from the module
 
