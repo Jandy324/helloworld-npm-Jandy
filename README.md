@@ -13,7 +13,7 @@ Example:
 
 #Gets the module 
 
-var helloWorld= require("./node_modules/helloworld-npm-jandy/");
+var helloWorld= require("helloworld-npm-jandy");
 
 #Runs the function from the module
 
